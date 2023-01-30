@@ -5,6 +5,9 @@
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist"
   ],
@@ -26,6 +29,14 @@
     "predeploy": "cd example && npm install && npm run build",
     "deploy": "gh-pages -d example/build"
   },
+  "keywords": [
+    "reactjs",
+    "react",
+    "urlify",
+    "url marker",
+    "row splitter",
+    "row wrapper"
+  ],
   "dependencies": {
     "prop-types": "^15.8.1"
   },
