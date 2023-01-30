@@ -81,7 +81,7 @@ function App() {
 
 React: **16.13.1**
 
-### Kullanılan Paketler
+### Packages Used
 
 [prop-types](https://www.npmjs.com/package/prop-types)
 
