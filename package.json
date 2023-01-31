@@ -1,6 +1,6 @@
 {
   "name": "@wellbees/link-line-separator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom line or link separator for javascript project",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
